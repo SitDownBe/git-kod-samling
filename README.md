@@ -1,4 +1,4 @@
-# git-kod-samling
+# Fredrik Grape
 
 GitSamling.zip filen innehåller fyra program jag har skrivit för olika kurser vid uppsala universitet.
 
