@@ -18,10 +18,23 @@ Ett rekursivt program skrivet i Python för att beräkna produkten mellan två b
   3. Ring detektion
 -------------------------
 
-Ett program skrivet i Python för att kolla om en graf innehåller en ring. 
+Ett program skrivet i Python för att kolla om en graf innehåller en ring. De två första metoderna (ring och ring_visit) returnerar enbart sant eller falskt beroende på om det existerar en ring eller inte. Metoderna ring_extended och ring_visit_extended returnerar även vilka noder som ingår i ringen.
 
 -------------------------
   4. RPN miniräknare
 -------------------------
 
-En Reverse Polish Notation miniräknare skrivet i en MIPS assembly simulator (MARS). Miniräknaren hanterar plus, minus, gånger, delat med och roten ur. 
+En Reverse Polish Notation miniräknare skrivet i en MIPS assembly simulator (MARS). Miniräknaren hanterar plus, minus, gånger, delat med och roten ur. För att använda en RPN miniräknare, skriv först som input de tal du vill lägga på stacken, tex:
+
+4
+3
+2
+1
+
+om ett plustecken nu anges som input kommer de två översta talen poppas från stacken (4 och 3) och adderas, och sedan läggas tillbaks på stacken som nu kommer se ut som sådan:
+
+7
+2
+1
+
+RPN miniräknare blev populära under en tid då datorminne var väldigt begränsat.
