@@ -16,11 +16,6 @@ Scenario 2
 ----------
 Här är tanken att användaren ska träna på att rotera huvudet för att följa en boll som svävar i luften. I båda scenarier är det möjligt att vända sig om och fortsätta spela och även att gå fram och tillbaka (spelet följer med användaren). Allt detta är i syfte att träna så många olika delar av balanssinnet som möjligt.
 
-Kodutdrag
----------
-
-BILDER PÅ KODEN
-
 -------------------------------------------------------------------------------------------------------
 GitSamling.zip filen innehåller fyra program jag har skrivit för olika kurser vid uppsala universitet.
 -------------------------------------------------------------------------------------------------------
