@@ -5,6 +5,7 @@ Balansträning för äldre människor med Hololens AR
 --------------------------------------------------
 * Scenario 1: https://www.youtube.com/watch?v=Wj6sc34tSP4
 * Scenario 2: https://www.youtube.com/watch?v=_CUvQ8QteYY
+
 Notera att både bildkvalitén och antalet bilder per sekund tyvärr är betydligt sämre i inspelade videor med Hololensen.
 
 Scenario 1
