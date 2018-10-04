@@ -5,11 +5,24 @@ Balansträning för äldre människor med Hololens AR
 --------------------------------------------------
 * Scenario 1: https://www.youtube.com/watch?v=Wj6sc34tSP4
 * Scenario 2: https://www.youtube.com/watch?v=_CUvQ8QteYY
+Notera att både bildkvalitén och antalet bilder per sekund tyvärr är betydligt sämre i inspelade videor med Hololensen.
 
 Scenario 1
 ----------
+Här är tanken att användaren ska träna på att flytta sin tyngdpunkt från sida till sida för att fånga bollar som kommer flygandes mot dem. Det är möjligt att ställa in svårighetsgrader och ändra mellan att bollarna kommer från en sida till en annan, till att de kommer mot en med en slumpad vinkel.
 
+Scenario 2
+----------
+Här är tanken att användaren ska träna på att rotera huvudet för att följa en boll som svävar i luften. I båda scenarier är det möjligt att vända sig om och fortsätta spela och även att gå fram och tillbaka (spelet följer med användaren). Allt detta är i syfte att träna så många olika delar av balanssinnet som möjligt.
+
+Kodutdrag
+---------
+
+BILDER PÅ KODEN
+
+-------------------------------------------------------------------------------------------------------
 GitSamling.zip filen innehåller fyra program jag har skrivit för olika kurser vid uppsala universitet.
+-------------------------------------------------------------------------------------------------------
 
 --------------------------
   1. Studsande Bollar
